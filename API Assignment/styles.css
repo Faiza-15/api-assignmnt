@@ -1,0 +1,11 @@
+/* Add your custom styles here */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+}
